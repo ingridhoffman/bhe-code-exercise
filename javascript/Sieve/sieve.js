@@ -1,6 +1,6 @@
 /**
  * based on Sieve of Eratosthenes
- * future optimization: segment the seive for larger n values
+ * future optimization: segment the sieve for larger n values
  */
 class Sieve {
 	NthPrime(n) {
